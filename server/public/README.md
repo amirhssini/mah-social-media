@@ -1,0 +1,1 @@
+Lorsqu'un compte est inscrit sur le site, la photo mise dans le forumulaire d'inscription sera automatiquement ajouté dans server/public/assets.
