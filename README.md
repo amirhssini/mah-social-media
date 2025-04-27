@@ -2,7 +2,9 @@ Projet personnel consistant en un réseau social similaire à Facebook et X.
 
 DEMO :  
 
-<video controls src="Demo.mkv" title="Démo rapide du projet"></video>
+
+https://github.com/user-attachments/assets/f034d839-e103-460b-a7e6-041849d7885a
+
 
 • Site développé en Javascript avec NodeJS, Express, React et MongoDB Atlas.  
 • Page d’inscription et une page de connexion.  
